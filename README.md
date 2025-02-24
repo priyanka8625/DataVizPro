@@ -3,6 +3,13 @@
 An interactive **Exploratory Data Analysis (EDA)** app built with **Streamlit**.  
 Easily upload CSV files, preview data, clean missing values, normalize outliers, and generate detailed reports with **ydata-profiling**.  
 
+## 🌍 Live Demo  
+
+Check out the live version of **DataVizPro** here:  
+
+[🔗 Live Link](https://datavizpro-eda.streamlit.app/)  
+
+
 ## 🚀 Features  
 
 ✅ **Upload & Preview CSV Data** – Instantly view the dataset structure.  
