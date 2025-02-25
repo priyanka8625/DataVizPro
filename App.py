@@ -13,7 +13,7 @@ st.markdown('<h3>Created by: Priyanka Sundalam</h3>', unsafe_allow_html=True)
 st.markdown("""
 <p>Easily explore and understand your data with our simple EDA tool. Just upload your dataset, and our tool will analyze, clean, and visualize it—helping you find patterns and insights quickly. No complex coding required, just clear and easy-to-read summaries and charts to make data analysis effortless!</p>
 """, unsafe_allow_html=True)
-st.snow()
+# st.snow()
 
 # File uploader for CSV
 st.markdown("<h4>Upload your Dataset here in CSV format</h4>", unsafe_allow_html=True)
